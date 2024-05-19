@@ -1,0 +1,5 @@
+
+Mach-O File
+-----------
+Features:
+1. Dynamic Linking: Mach-O files support dynamic linking with shared libraries.

@@ -1,0 +1,6 @@
+
+(module
+  (func (export "language_agnostic_feature"))
+  (memory 1)
+  (data (i32.const 0) "WebAssembly is not tied to a specific programming language, enabling developers to use a variety of languages to compile to WebAssembly.")
+)
